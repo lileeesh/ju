@@ -1,0 +1,231 @@
+*{margin: 0;}
+body{
+    background-color: rgb(230, 224, 224);
+}
+
+.deli{
+    margin-left:  100px;
+
+    background-color: white;
+}
+.Aisha{
+    background-color: white;
+    display: flex;
+    color: white;
+    margin-left: 140px;
+}
+.Aisha .Sell a{
+    color: white;
+    text-decoration: none;
+}
+.Aisha .jumia{
+    
+    margin-left: 500px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Aisha .jumia a{
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+}
+.Aisha .jumia a:hover{
+    color: wheat;
+
+}
+.Aisha button{
+    background-color: orange;
+    color: white;
+    border-style: solid;
+    border-color: orange;
+    border-width: 1px;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
+.slide{
+    margin-left: 300px;
+}
+.cola{
+    display: flex;
+    margin-left:  100px;
+    justify-content: space-between;
+    background-color: white;
+    margin-bottom: 50px;
+    padding: 50px;
+    margin: 50px;
+}
+.colb{
+    display: flex;
+    padding: 50px;
+    
+    margin: 50px;
+    background-color: white;
+}
+.flash{
+    font-size: 20px;
+    margin-left: 100px;
+    
+}
+.ww{
+    display: flex;
+    padding: 50px;
+    text-align: center;
+    background-color: white;
+    margin: 50px;
+}
+.ww img{
+    width: 90%;
+}    
+.ee{
+    display: flex;
+    padding: 30px;
+    text-align: center;
+    background-color: white;
+    margin: 50px;
+}
+.ee img{
+    width: 90%;
+}
+.rr{
+    display: flex;
+    padding: 30px;
+    text-align: center;
+    background-color: white;
+    margin: 50px;
+}
+.rr img{
+width: 90%;
+}
+.tt{
+    text-align: center;
+    font-size: 30px;
+}
+.yy{
+    display: flex;
+    padding: 30px;
+    text-align: center;
+    background-color: white;
+    margin: 50px;
+}
+.yy img{
+    width: 70%;
+}
+.uu{
+    display: flex;
+    padding: 30px;
+    background-color: white;
+    margin: 50px;
+    margin-bottom: 10px;
+}
+.uu img{
+    width: 70%;
+}
+.tele{
+    margin: 100px;
+    background-color:skyblue;
+    font-size: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.oo{
+    display: flex;
+    padding: 30px;
+    background-color: white;
+    margin: 50px;
+    margin-top: 0px;
+}
+.oo img{
+    width: 70%;
+}
+.ss{
+    display: flex;
+    padding: 30px;
+    background-color: white;
+    margin: 50px;
+}
+.ss img{
+    width: 70%;
+}
+
+.pp{
+    display: flex;
+    padding: 30px;
+    background-color: white;
+    margin: 50px;
+}
+.pp img{
+    width: 70%;
+}
+.tele2{
+    margin: 100px;
+    background-color: rgb(226, 151, 176);
+    font-size: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.ff{ 
+    display: flex;
+    padding: 30px;
+    background-color: white;
+    margin: 50px;
+}
+.ff img{
+    width: 70%;
+}
+.gg{ 
+    display: flex;
+    padding: 30px;
+    background-color: white;
+    margin: 50px;
+}
+.gg img{
+    width: 70%;
+}
+.hh{ 
+    display: flex;
+    padding: 30px;
+    background-color: white;
+    margin: 50px;
+    margin-bottom: 0px;
+}
+.hh img{
+    width: 70%;
+}
+.jj{ 
+    display: flex;
+    padding: 30px;
+    background-color: white;
+    margin: 50px;
+}
+.jj img{
+    width: 70%;
+}
+.kk{ 
+    display: flex;
+    padding: 30px;
+    margin: 50px;
+}
+.kk img{
+    width: 600px;
+    height: 300px;
+}
+.write{
+    background-color: white;
+    padding: 50px;
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
